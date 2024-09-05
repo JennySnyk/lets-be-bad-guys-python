@@ -1,4 +1,4 @@
-Django==1.9.6
+Django==4.2.16
 django-debug-toolbar==1.4
 Jinja2==2.7.2
 oauth2==1.1.3
